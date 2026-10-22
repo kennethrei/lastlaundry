@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function Track(){return <main className="publiccontent"><Link className="link" href="/">← Home</Link><h1 className="h1">Track your laundry</h1><p className="sub">For privacy, order lookup should use the reference number plus verified mobile OTP before production. Contact the laundry team for the first release.</p><div className="formcard" style={{marginTop:22}}><div className="notice">Customer order tracking UI is reserved for the next step; this starter does not expose customer records through a public lookup.</div></div></main>}
